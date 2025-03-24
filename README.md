@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">
+Welcome To My GitHub Profile 😊
+</h1>
 
-<!--
-**AryaFardmanesh/AryaFardmanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```txt
+                                                  ______            _                                 _     
+                         /\                      |  ____|          | |                               | |    
+                        /  \   _ __ _   _  __ _  | |__ __ _ _ __ __| |_ __ ___   __ _ _ __   ___  ___| |__  
+                       / /\ \ | '__| | | |/ _` | |  __/ _` | '__/ _` | '_ ` _ \ / _` | '_ \ / _ \/ __| '_ \ 
+                      / ____ \| |  | |_| | (_| | | | | (_| | | | (_| | | | | | | (_| | | | |  __/\__ \ | | |
+                     /_/    \_\_|   \__, |\__,_| |_|  \__,_|_|  \__,_|_| |_| |_|\__,_|_| |_|\___||___/_| |_|
+                                     __/ |                                                                  
+                                    |___/                                                                   
+```
 
-Here are some ideas to get you started:
+<h3 align="center">I'm a Full-Stack Web Developer 🚀</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3>👦 About me:</h3>
+
+---
+
+<h3>🛠️ Languages and Tools:</h3>
+
+---
+
+<h4>🧰 Others Tools:</h4>
+
+---
+
+<h3>📗 Currently Learning:</h3>
+
+---
+
+<h3>💎 My Favourite:</h3>
+
+---
+
+<h3>🤹🏼‍♂️ Soft-Skills:</h3>
+
+---
