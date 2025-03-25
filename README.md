@@ -67,5 +67,5 @@ Visit my GitHub [repositories](https://github.com/AryaFardmanesh?tab=repositorie
 |Icon|Title|Interest level (1-5)|
 |----|-----|--------------|
 |<img src="https://img.icons8.com/?size=256w&id=38992&format=png" width="25" height="25" alt="Binary File Logo" title="Compiler/Interpreter Design" />|`Compiler/Interpreter Design`|😍😍😍😍😍|
-|<img src="https://img.icons8.com/?size=256w&id=QGeedI2KhNCQ&format=png" width="25" height="25" alt="Operating System Logo" title="Operating System Design" />|`Operating System Design`|😍😍😍😍😍|
-|<img src="https://img.icons8.com/?size=256w&id=0yinrY6KTx1j&format=png" width="25" height="25" alt="Tool & Framework Logo" title="Tool & Framework Design" />|`Tool & Framework Design`|😍😍😍😍😍|
+|<img src="https://img.icons8.com/?size=256w&id=QGeedI2KhNCQ&format=png" width="25" height="25" alt="Operating System Logo" title="Operating System Design" />|`Operating System Design`|😍😍😍😍|
+|<img src="https://img.icons8.com/?size=256w&id=0yinrY6KTx1j&format=png" width="25" height="25" alt="Tool & Framework Logo" title="Tool & Framework Design" />|`Tool & Framework Design`|😍😍😍|
