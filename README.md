@@ -25,11 +25,6 @@ I was born on 12/27/2004 and live in Iran. I have started learning and working i
 
 Visit my GitHub [repositories](https://github.com/AryaFardmanesh?tab=repositories) to see my projects.
 
-## Current Projects
-
-- [SoftIO](https://github.com/AryaFardmanesh/softio)
-- [Housima](https://github.com/housima)
-
 ---
 
 # 🛠️ Languages and Tools
