@@ -57,7 +57,7 @@ Visit my GitHub [repositories](https://github.com/AryaFardmanesh?tab=repositorie
 |<img src="https://img.icons8.com/?size=256&id=123603&format=png" width="25" height="25" alt="React Native Logo" title="React Native" />|`React Native`|
 |<img src="https://img.icons8.com/?size=256&id=9ESZMOeUioJS&format=png" width="25" height="25" alt="Nest.js Logo" title="Nest.js" />|`Nest.js`|
 
-# 💎 My Favourites
+# 💎 My Favorites Topics
 
 |Icon|Title|Interest level (1-5)|
 |----|-----|--------------|
